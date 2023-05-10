@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" newRepositoryParent="org.springframework.data.repository.CrudRepository">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="sourceModelValue" value="Default" />
+    <option name="reverseEngineeringLastDbConnectionId" value="917fef5c-746f-4478-a8de-63061ed35ed4" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/megaventory/project" />
+  </component>
+</project>
